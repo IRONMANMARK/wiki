@@ -1,0 +1,41 @@
+style2.css中菜单栏
+.main-navigation {
+    position: relative;
+    clear: both;
+    display: block;
+    float: left;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: #e8f1f5;
+    border-bottom: 1px solid #c8c3b9;
+
+背景颜色 原色号f7f4ed
+#primary {
+    background-color: #e8f1f5;
+    float: left;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    padding: 50px 10px 0;
+}
+整体字体颜色为#324b5a
+bottom字体颜色为8301
+
+大标题本来
+.entry-title {
+    font-size: 2.625em;
+    font-weight: 700;
+    line-height: 1;
+    margin: 20px 0 40px;
+    color: #fdd163; 换为#004a7c
+}
+
+
+
+bottomc.css
+.link-list__list a {
+	color: #fafafa;底部链接颜色 本fca180
+	--size: 1.6rem;
+	line-height: 1.35;
+	text-transform: non

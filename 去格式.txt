@@ -1,0 +1,50 @@
+<style>
+/* OVERRIDE IGEM SETTINGS */
+
+	#sideMenu, #top_title, #contentSub, #footer-box, #catlinks, #search-controls, #p-logo, .printfooter, .firstHeading, .visualClear {display: none}
+	#content {width: 100%;  background: transparent; margin: 0; padding: 0; }
+	#bodyContent h1, #bodyContent h2, #bodyContent h3, #bodyContent h4, #bodyContent h5  { margin-bottom: 2px; }
+        #top_menu_under {
+                height: 0px;
+                border-bottom: 0 none;
+                display: none;
+       }
+
+        #top_menu_14 {
+                height: 24px;
+                border-bottom: 0 none;
+       }
+
+	#globalWrapper, #content  {
+		width: 100%;
+		height: 100%;
+                margin:  0;
+		float:  none;
+		font-size: 100%;
+                z-index: 0;
+	}
+
+	div[id=mw-content-text] > p {
+		display: none;
+	}
+
+	#sideMenu {
+		width: 200px;
+	}
+
+	#sideMenu .mainMenu_Title, #sideMenu .mainMenu_toggle, #sideMenu #MainPage_menu ul li li {
+		border: none;
+	}
+
+	#sideMenu .sideMenuTitle {
+		height: 35px;
+	}
+
+	#top_menu_inside .submenu {
+		width: auto;
+	}
+
+
+	
+
+</style>

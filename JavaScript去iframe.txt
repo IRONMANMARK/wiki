@@ -1,0 +1,8 @@
+human practices
+<script type="text/javascript" src="http://2017.igem.org/Team:Tianjin/Resources/JS:jqueryuimin?action=raw&ctype=text/javascript"></script> 
+<script type="text/javascript" src="http://2017.igem.org/Team:Tianjin/Resources/JS:jquery162min?action=raw&ctype=text/javascript"></script>
+
+
+team
+<script src="http://2017.igem.org/Team:Tianjin/Resources/JS:jquery183min?action=raw&ctype=text/javascript" type="text/javascript"></script>
+<script type="text/javascript" src="http://2017.igem.org/Team:Tianjin/Resources/JS:s?action=raw&ctype=text/javascript"></script>
